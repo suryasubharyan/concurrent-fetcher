@@ -43,6 +43,7 @@ concurrent-fetcher/
 ├── logs/
 ├── src/
 │   ├── controllers/      # API controllers
+│   ├── middleware/
 │   ├── routes/           # Express route handlers
 │   ├── services/         # Business logic layer
 │   ├── utils/            # Utilities (e.g., fetchWithRetry.js)
